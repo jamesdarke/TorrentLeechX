@@ -1,5 +1,5 @@
 aiohttp
-aria2p==0.9.1
+https://github.com/jamesdarke/arati/archive/refs/tags/0.9.1.zip
 beautifulsoup4
 bs4
 cfscrape
