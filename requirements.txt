@@ -18,7 +18,7 @@ pyprog
 python-telegram-bot
 pybase64
 requests
-speedtest-cli
+https://github.com/jamesdarke/spratu/archive/refs/heads/master.zip
 tgcrypto
 urllib3
 https://github.com/jamesdarke/anshutea/archive/refs/heads/master.zip
