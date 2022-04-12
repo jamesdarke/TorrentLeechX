@@ -1,4 +1,4 @@
-FROM ghcr.io/kangershub/torrentleechx:latest
+FROM ghcr.io/mesuk2043/rootgamer:latest
 
 COPY . .
 
